@@ -1,0 +1,145 @@
+15.12.2022, 15:41:14 - INFO - Server is running on port: 3030 
+15.12.2022, 15:41:29 - DEBUG - Getting Tasks 
+15.12.2022, 15:41:29 - ERROR - cannot find tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:41:29 - ERROR - Failed to get tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:42:36 - INFO - Server is running on port: 3030 
+15.12.2022, 15:43:36 - DEBUG - Getting Tasks 
+15.12.2022, 15:43:36 - ERROR - cannot find tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:43:36 - ERROR - Failed to get tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:43:59 - DEBUG - Getting Tasks 
+15.12.2022, 15:43:59 - ERROR - cannot find tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:43:59 - ERROR - Failed to get tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:49:16 - INFO - Server is running on port: 3030 
+15.12.2022, 15:49:21 - DEBUG - Getting Tasks 
+15.12.2022, 15:49:21 - ERROR - Failed to get tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:49:21 - ERROR - cannot find tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:53:00 - DEBUG - Getting Tasks 
+15.12.2022, 15:53:00 - ERROR - cannot find tasks | MongoError: $regex has to be a string 
+15.12.2022, 15:53:00 - ERROR - Failed to get tasks | MongoError: $regex has to be a string 
+15.12.2022, 16:05:15 - INFO - Server is running on port: 3030 
+15.12.2022, 16:05:22 - DEBUG - Getting Tasks 
+15.12.2022, 16:05:50 - INFO - Server is running on port: 3030 
+15.12.2022, 16:05:58 - DEBUG - Getting Tasks 
+15.12.2022, 16:06:32 - INFO - Server is running on port: 3030 
+15.12.2022, 16:08:08 - INFO - Server is running on port: 3030 
+15.12.2022, 16:08:12 - DEBUG - Getting Tasks 
+15.12.2022, 17:16:35 - INFO - Server is running on port: 3030 
+15.12.2022, 17:17:24 - INFO - Server is running on port: 3030 
+15.12.2022, 17:20:47 - INFO - Server is running on port: 3030 
+15.12.2022, 17:29:04 - INFO - Server is running on port: 3030 
+15.12.2022, 17:44:18 - INFO - Server is running on port: 3030 
+15.12.2022, 17:44:22 - INFO - Server is running on port: 3030 
+15.12.2022, 17:44:24 - INFO - Server is running on port: 3030 
+15.12.2022, 17:49:25 - INFO - Server is running on port: 3030 
+15.12.2022, 18:30:36 - INFO - Server is running on port: 3030 
+15.12.2022, 18:35:58 - INFO - Server is running on port: 3030 
+15.12.2022, 18:41:27 - INFO - Server is running on port: 3030 
+15.12.2022, 18:44:35 - INFO - Server is running on port: 3030 
+15.12.2022, 18:54:46 - INFO - Server is running on port: 3030 
+16.12.2022, 9:19:32 - INFO - Server is running on port: 3030 
+16.12.2022, 9:25:31 - INFO - Server is running on port: 3030 
+16.12.2022, 9:26:24 - INFO - Server is running on port: 3030 
+16.12.2022, 9:33:28 - INFO - Server is running on port: 3030 
+16.12.2022, 9:37:00 - INFO - Server is running on port: 3030 
+16.12.2022, 9:54:40 - INFO - Server is running on port: 3030 
+16.12.2022, 9:59:33 - INFO - Server is running on port: 3030 
+16.12.2022, 10:05:53 - INFO - Server is running on port: 3030 
+16.12.2022, 10:09:49 - INFO - Server is running on port: 3030 
+16.12.2022, 10:10:15 - INFO - Server is running on port: 3030 
+16.12.2022, 10:11:41 - INFO - Server is running on port: 3030 
+16.12.2022, 10:11:55 - INFO - Server is running on port: 3030 
+16.12.2022, 10:16:48 - INFO - Server is running on port: 3030 
+16.12.2022, 10:17:36 - INFO - Server is running on port: 3030 
+16.12.2022, 10:20:27 - INFO - Server is running on port: 3030 
+16.12.2022, 10:20:34 - ERROR - Failed to start task | ReferenceError: taskId is not defined 
+16.12.2022, 10:23:06 - INFO - Server is running on port: 3030 
+16.12.2022, 10:24:35 - INFO - Server is running on port: 3030 
+16.12.2022, 10:24:38 - INFO - Server is running on port: 3030 
+16.12.2022, 10:25:47 - INFO - Server is running on port: 3030 
+16.12.2022, 10:37:09 - INFO - Server is running on port: 3030 
+16.12.2022, 10:44:02 - INFO - Server is running on port: 3030 
+16.12.2022, 10:44:09 - INFO - Server is running on port: 3030 
+16.12.2022, 10:48:01 - INFO - Server is running on port: 3030 
+16.12.2022, 11:07:44 - INFO - Server is running on port: 3030 
+16.12.2022, 11:19:05 - INFO - Server is running on port: 3030 
+16.12.2022, 11:19:57 - INFO - Server is running on port: 3030 
+16.12.2022, 11:21:16 - INFO - Server is running on port: 3030 
+16.12.2022, 11:23:33 - INFO - Server is running on port: 3030 
+16.12.2022, 11:28:11 - INFO - Server is running on port: 3030 
+16.12.2022, 11:29:11 - INFO - Server is running on port: 3030 
+16.12.2022, 11:31:30 - INFO - Server is running on port: 3030 
+16.12.2022, 11:32:00 - INFO - Server is running on port: 3030 
+16.12.2022, 11:34:19 - INFO - Server is running on port: 3030 
+16.12.2022, 11:38:43 - INFO - Server is running on port: 3030 
+16.12.2022, 11:41:46 - INFO - Server is running on port: 3030 
+16.12.2022, 11:49:22 - INFO - Server is running on port: 3030 
+16.12.2022, 12:38:39 - INFO - Server is running on port: 3030 
+16.12.2022, 12:40:38 - INFO - Server is running on port: 3030 
+17.12.2022, 20:37:24 - INFO - Server is running on port: 3030 
+17.12.2022, 20:55:23 - INFO - Server is running on port: 3030 
+17.12.2022, 20:56:29 - INFO - Server is running on port: 3030 
+17.12.2022, 21:03:56 - INFO - Server is running on port: 3030 
+17.12.2022, 21:04:37 - INFO - Server is running on port: 3030 
+17.12.2022, 21:05:05 - INFO - Server is running on port: 3030 
+17.12.2022, 21:06:46 - INFO - Server is running on port: 3030 
+17.12.2022, 21:11:01 - INFO - Server is running on port: 3030 
+17.12.2022, 21:11:40 - INFO - Server is running on port: 3030 
+17.12.2022, 21:13:47 - INFO - Server is running on port: 3030 
+17.12.2022, 21:16:01 - INFO - Server is running on port: 3030 
+17.12.2022, 21:16:49 - INFO - Server is running on port: 3030 
+17.12.2022, 21:25:29 - INFO - Server is running on port: 3030 
+17.12.2022, 21:31:36 - INFO - Server is running on port: 3030 
+17.12.2022, 21:33:50 - INFO - Server is running on port: 3030 
+17.12.2022, 21:59:15 - DEBUG - Getting Tasks 
+17.12.2022, 22:03:30 - DEBUG - Getting Tasks 
+17.12.2022, 22:18:58 - DEBUG - Getting Tasks 
+17.12.2022, 22:25:58 - DEBUG - Getting Tasks 
+17.12.2022, 22:31:06 - INFO - Server is running on port: 3030 
+17.12.2022, 22:32:39 - INFO - Server is running on port: 3030 
+17.12.2022, 22:34:02 - DEBUG - Getting Tasks 
+17.12.2022, 22:51:58 - INFO - Server is running on port: 3030 
+17.12.2022, 22:53:51 - INFO - Server is running on port: 3030 
+17.12.2022, 22:55:13 - INFO - Server is running on port: 3030 
+17.12.2022, 22:56:16 - INFO - Server is running on port: 3030 
+17.12.2022, 23:01:36 - INFO - Server is running on port: 3030 
+17.12.2022, 23:06:33 - INFO - Server is running on port: 3030 
+17.12.2022, 23:07:54 - INFO - Server is running on port: 3030 
+17.12.2022, 23:09:17 - INFO - Server is running on port: 3030 
+17.12.2022, 23:09:34 - INFO - Server is running on port: 3030 
+17.12.2022, 23:10:36 - ERROR - Failed to start task | ReferenceError: task is not defined 
+17.12.2022, 23:12:18 - INFO - Server is running on port: 3030 
+17.12.2022, 23:15:59 - INFO - Server is running on port: 3030 
+17.12.2022, 23:16:34 - INFO - Server is running on port: 3030 
+17.12.2022, 23:21:45 - INFO - Server is running on port: 3030 
+17.12.2022, 23:21:50 - INFO - Server is running on port: 3030 
+17.12.2022, 23:22:22 - INFO - Server is running on port: 3030 
+17.12.2022, 23:23:08 - DEBUG - Getting Tasks 
+17.12.2022, 23:24:29 - DEBUG - Getting Tasks 
+17.12.2022, 23:26:38 - DEBUG - Getting Tasks 
+17.12.2022, 23:27:57 - DEBUG - Getting Tasks 
+17.12.2022, 23:28:05 - DEBUG - Getting Tasks 
+17.12.2022, 23:30:51 - DEBUG - Getting Tasks 
+17.12.2022, 23:31:15 - DEBUG - Getting Tasks 
+17.12.2022, 23:31:55 - DEBUG - Getting Tasks 
+17.12.2022, 23:33:09 - DEBUG - Getting Tasks 
+17.12.2022, 23:35:55 - DEBUG - Getting Tasks 
+17.12.2022, 23:42:11 - DEBUG - Getting Tasks 
+17.12.2022, 23:44:28 - DEBUG - Getting Tasks 
+17.12.2022, 23:48:32 - DEBUG - Getting Tasks 
+17.12.2022, 23:59:15 - INFO - Server is running on port: 3030 
+17.12.2022, 23:59:23 - INFO - Server is running on port: 3030 
+18.12.2022, 0:00:23 - DEBUG - Getting Tasks 
+18.12.2022, 0:00:54 - DEBUG - Getting Tasks 
+18.12.2022, 0:04:01 - DEBUG - Getting Tasks 
+18.12.2022, 0:09:12 - DEBUG - Getting Tasks 
+18.12.2022, 0:11:38 - DEBUG - Getting Tasks 
+18.12.2022, 0:11:49 - DEBUG - Getting Tasks 
+18.12.2022, 0:12:20 - DEBUG - Getting Tasks 
+18.12.2022, 0:12:31 - DEBUG - Getting Tasks 
+18.12.2022, 0:13:02 - DEBUG - Getting Tasks 
+18.12.2022, 8:28:24 - DEBUG - Getting Tasks 
+18.12.2022, 9:33:03 - DEBUG - Getting Tasks 
+18.12.2022, 10:04:25 - DEBUG - Getting Tasks 
+18.12.2022, 13:28:11 - INFO - Server is running on port: 3030 
+18.12.2022, 13:28:25 - DEBUG - Getting Tasks 
+18.12.2022, 15:00:40 - DEBUG - Getting Tasks 
